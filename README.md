@@ -22,7 +22,7 @@
 <div class="paper image">
   <p>How can be </p>
    <p> someone so cute ❤ </p>
-  <img src="https://drive.google.com/file/d/1JJTJe6ZGEeWiD6ivrEv6EtIC-Tarcr6-/view?usp=share_link" />
+  <img src="https://github.com/rkyadav1820/Mr.-X/blob/main/IMG_20220725_180450.jpg" />
 </div>
 <div class="paper red">
 <p class="p1"> and My Favorite</p>
