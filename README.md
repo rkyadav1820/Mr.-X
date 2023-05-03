@@ -17,7 +17,7 @@
 </div>
 <div class="paper image">
   <p</p>
-  <img src="IMG_20220206_211635.jpg" />
+  <img src="[IMG_20220206_211635.jpg](https://github.com/rkyadav1820/Mr.-X/blob/main/IMG_20220206_211635.jpg)" />
 </div>
 <div class="paper image">
   <p>How can be </p>
